@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\Music\\DenzelPortfolio\\DenzelPortfolio.csproj": {}
+    "C:\\Users\\lab_services_student\\Desktop\\CV\\DenzelPortfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\Music\\DenzelPortfolio\\DenzelPortfolio.csproj": {
+    "C:\\Users\\lab_services_student\\Desktop\\CV\\DenzelPortfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\Music\\DenzelPortfolio\\DenzelPortfolio.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\CV\\DenzelPortfolio.csproj",
         "projectName": "DenzelPortfolio",
-        "projectPath": "C:\\Users\\lab_services_student\\Music\\DenzelPortfolio\\DenzelPortfolio.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\CV\\DenzelPortfolio.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\Music\\DenzelPortfolio\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\CV\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
